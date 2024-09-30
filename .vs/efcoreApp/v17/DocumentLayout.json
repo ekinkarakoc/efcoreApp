@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\efcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:efcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|c:\\users\\ekinkarakoc\\desktop\\c# projects\\efcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D454C8D-B987-4346-9045-C8E93D151074}|efcoreApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:37:53.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T13:37:43.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:17:14.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ogrenci\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ogrenci\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T12:53:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:20:26.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "efcoreApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\efcoreApp.csproj",
+              "RelativeDocumentMoniker": "efcoreApp.csproj",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\efcoreApp.csproj",
+              "RelativeToolTip": "efcoreApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T11:28:25.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ekinkarakoc\\Desktop\\C# Projects\\efcoreApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:05:08.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

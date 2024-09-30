@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Ogrenci>
+
+    <table class="table">
+        <thead>
+            <tr>
+            <th>Ogrenci Id</th>
+            <th>Ogrenci Ad</th>
+            <th>Ogrenci Soyad</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+          @foreach(var ogrenci in Model){
+            <tr>
+                <td>@ogrenci.OgrenciId</td>
+                <td>@ogrenci.OgrenciAd</td>
+                <td>@ogrenci.OgrenciSoyad</td>
+                <td>
+                    <a href="" class="btn btn-sm btn-primary">Details</a>
+                    <a href="" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
